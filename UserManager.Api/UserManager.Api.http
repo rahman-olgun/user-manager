@@ -1,0 +1,6 @@
+@UserManager.Api_HostAddress = http://localhost:5030
+
+GET {{UserManager.Api_HostAddress}}/userManager/
+Accept: application/json
+
+###
